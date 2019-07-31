@@ -7,7 +7,7 @@ This is a replica/clone of the newsweek issue
 ### Author:
 [Asha](https://github.com/Ashah15)
 
-####Link to the live repo:
+#### Link to the live repo:
 [Click Here](https://ashah15.github.io/News-Week/.)
 
 ##### Screenshot of newsweek
